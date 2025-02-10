@@ -2,7 +2,7 @@
 This repository contains the pytorch code for the paper "Predicting the Future by Retrieving the Past: Enhancing Univariate Time Series Forecasting with Global Memory Bank”.
 
 ## Environment
-For convenience, run the following command:
+Run the following command:
 ```
 pip install -r requirements.txt
 ```
