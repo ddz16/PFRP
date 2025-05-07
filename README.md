@@ -1,5 +1,5 @@
 # PFRP
-This repository contains the pytorch code for the paper "Predicting the Future by Retrieving the Past: Enhancing Univariate Time Series Forecasting with Global Memory Bank”.
+This repository contains the pytorch code for the paper "Predicting the Future by Retrieving the Past”.
 
 ## Environment
 Run the following command:
@@ -29,17 +29,4 @@ The second stage focuses on prediction through GMB retrieval, i.e., predicting t
 ```
 bash ./scripts/long_term_forecast/Traffic_script/SparseTSF.sh
 bash ./scripts/long_term_forecast/Traffic_script/SparseTSF_PFRP.sh
-```
-
-## Acknowledgement
-This repository is constructed based on the [TSLib](https://github.com/thuml/Time-Series-Library).
-
-## Citation
-If you find this repo useful, please cite our paper.
-```
-@inproceedings{du2025PFRP,
-  title={Predicting the Future by Retrieving the Past: Enhancing Univariate Time Series Forecasting with Global Memory Bank},
-  author={Dazhao Du and Enhan Li and Lei Bai},
-  year={2025},
-}
 ```
