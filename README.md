@@ -8,7 +8,7 @@ pip install -r requirements.txt
 ```
 
 ## Datasets
-We use the datasets provided by [TSLib](https://github.com/thuml/Time-Series-Library) and we correct the significant anomalies in the time series using the nearest interpolation method. You can download them from [Google Drive](https://drive.google.com/file/d/1ePxTr1WqdSdRSQmFoJfcsrQvInmlkFUr/view?usp=sharing). All the datasets are well pre-processed and can be used easily. After downloading, put these dataset files in the `./dataset/` folder.
+We use the datasets provided by [TSLib](https://github.com/thuml/Time-Series-Library). All the datasets are well pre-processed and can be used easily. After downloading, put these dataset files in the `./dataset/` folder.
 
 ## The First Stage
 The first stage involves constructing a Global Memory Bank (GMB) to store historical information. 
