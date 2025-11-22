@@ -30,3 +30,14 @@ The second stage focuses on prediction through GMB retrieval, i.e., predicting t
 bash ./scripts/long_term_forecast/Traffic_script/SparseTSF.sh
 bash ./scripts/long_term_forecast/Traffic_script/SparseTSF_PFRP.sh
 ```
+
+## Citation
+```
+@inproceedings{pfrp,
+  title={Predicting the Future by Retrieving the Past},
+  author={Du, Dazhao and Han, Tao and Guo, Song},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2026}
+}
+```
+
